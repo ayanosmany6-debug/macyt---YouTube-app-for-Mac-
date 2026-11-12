@@ -1,0 +1,13 @@
+========================================
+       YouTube for Mac - Instructions
+========================================
+
+HOW TO INSTALL:
+1. Drag "MacYT.app" to your Applications folder.
+
+IF YOU GET "APP IS DAMAGED OR CANNOT BE OPENED":
+Because this app is independently built without a $99/year Apple Developer Certificate, macOS Gatekeeper blocks it on new devices.
+
+EASY FIX:
+Run this command in Terminal after moving to Applications:
+xattr -cr "/Applications/MacYT.app"
