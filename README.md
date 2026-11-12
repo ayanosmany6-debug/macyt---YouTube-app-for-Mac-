@@ -5,7 +5,7 @@ A native, lightweight, and professional YouTube client for macOS that outperform
 ## 📦 Distribution
 
 **Built as a Universal Binary** - Works on both Apple Silicon (M1/M2/M3/M4) AND Intel Macs.
-# To download - download the dmg file 
+# To download - download the dmg file , and read download instructions 
 
 **Includes bundled dependencies:**
 - ✅ yt-dlp (video downloader)
